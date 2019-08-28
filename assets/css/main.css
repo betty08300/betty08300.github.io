@@ -333,7 +333,12 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 50%;
+			display: flex;
+		}
+
+		.desc {
+			display: inline-block;
 		}
 
 		.row > .off-4 {
