@@ -26,8 +26,6 @@
 .tech-skill-img{
     height: 50px;
     
-    
-    
    
 }
 
@@ -43,3 +41,16 @@ strong {
     justify-content: space-between;
 }
 
+.project-title{
+    height: 60px;
+}
+
+
+
+.tech {
+    height: 120px;
+}
+
+.desc {
+    height: 150px;
+}
